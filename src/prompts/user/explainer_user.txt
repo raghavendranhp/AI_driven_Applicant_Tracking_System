@@ -1,0 +1,9 @@
+Write EXACTLY ONE professional sentence explaining why the candidate received the following match score. Mention the most relevant matching skills or the experience alignment/gap. Do not output anything other than the single sentence.
+
+MATCHING DATA:
+- Candidate Name: {candidate_name}
+- Candidate Skills: {candidate_skills}
+- Candidate Experience: {candidate_experience} years
+- Job Required Skills: {jd_skills}
+- Job Required Experience: {jd_experience} years
+- Final Match Score: {match_score} out of 100

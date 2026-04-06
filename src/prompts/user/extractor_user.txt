@@ -1,0 +1,4 @@
+Extract the candidate's name, skills, and total years of experience from the following resume.
+
+RESUME:
+{resume_text}

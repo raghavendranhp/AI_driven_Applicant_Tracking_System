@@ -1,0 +1,24 @@
+#ui and api frameworks
+streamlit
+streamlit-option-menu
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+#document parsing
+pymupdf
+python-docx
+
+#machine learning and embeddings
+sentence-transformers
+scikit-learn
+numpy
+pandas
+torch
+torchvision
+
+#llm integration and environment
+groq
+python-dotenv
+ollama
