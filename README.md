@@ -5,6 +5,10 @@ This AI-powered Recruitment Engine and Applicant Tracking System (ATS) automates
 
 Powered by state-of-the-art Large Language Models (via **Groq API** and local **Ollama** models like Gemma) and local embedding models, it scores, ranks, and provides AI-generated explanations for candidate-to-job fits.
 
+## Live Demo
+**Demo**
+![Live Demo](live_demo.gif)
+
 ## Architecture
 
 ```mermaid
